@@ -16,7 +16,8 @@ This Project uses:
 * Chromium
 	
 ## Setup
-To download this project, click the green code button and select 'Download ZIP' and extract it
+To download this project, click the green code button and select 'Download ZIP' and extract it.
+
 To be able to use this project, you will need to install the latest version of [Python](https://www.python.org/downloads/) from the website
 
 You will also need Google [Chromium](https://www.chromium.org/getting-involved/download-chromium) (Open-Source Verion of Chrome) as well as the [Chromium Driver](https://chromedriver.storage.googleapis.com/index.html?path=2.25/) (Download the version for your computer)
